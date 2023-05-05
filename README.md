@@ -35,3 +35,4 @@ March 2022, Bernard J. Rauscher, NASA Goddard Space Flight Center
 * Revs. 1.0 - 1.5
 * 1st release to JWST observers on 20 April 2023
 * Original publication site: https://webb.nasa.gov/content/forScientists/publications.html#NSClean
+* Minor mods 5 May 2023 by J. Rigby to post to TEMPLATES github site for community's convenience.
