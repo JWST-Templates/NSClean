@@ -33,4 +33,4 @@ See the Notebooks folder.
 March 2022, Bernard J. Rauscher, NASA Goddard Space Flight Center
 * Conceived algorithm
 * Revs. 1.0 - 1.5
-* 1st releast to JWST observers on 27 March 2023
+* 1st release to JWST observers on 20 April 2023
