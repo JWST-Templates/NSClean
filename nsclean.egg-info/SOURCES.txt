@@ -1,0 +1,11 @@
+README.md
+setup.py
+nsclean/NSClean.py
+nsclean/__init__.py
+nsclean/config.py
+nsclean/util.py
+nsclean.egg-info/PKG-INFO
+nsclean.egg-info/SOURCES.txt
+nsclean.egg-info/dependency_links.txt
+nsclean.egg-info/not-zip-safe
+nsclean.egg-info/top_level.txt

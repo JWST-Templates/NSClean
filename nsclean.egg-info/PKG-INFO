@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: nsclean
+Version: 1.2
+Summary: Clean residual noise from JWST NIRSpec images
+Author: Bernard J. Rauscher
+Author-email: Bernard.J.Rauscher@nasa.gov
