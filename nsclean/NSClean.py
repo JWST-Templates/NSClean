@@ -131,6 +131,7 @@ class NSClean:
             
             # For debugging
             # if y != 1024: continue
+
             # Get data and weights for this line
             d = D[y][self.M[y]] # Data
             if (len(d) == 0):
