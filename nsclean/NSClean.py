@@ -131,7 +131,6 @@ class NSClean:
             
             # For debugging
             # if y != 1024: continue
-
             # Get data and weights for this line
             d = D[y][self.M[y]] # Data
             if (len(d) == 0):
@@ -163,7 +162,6 @@ class NSClean:
             try:
                 pinv_PB = np.matmul(np.linalg.inv(np.matmul(AH, A)), AH)
             except np.linalg.LinAlgError:
-                print("WARNING: Singular matrix. Using pseudo-inverse.")
                 pinv_PB = np.matmul(np.linalg.pinv(np.matmul(AH, A)), AH)
             
             # Solve for the Fourier transform of this line's background samples.
